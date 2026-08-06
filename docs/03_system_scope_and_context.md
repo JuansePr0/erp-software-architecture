@@ -12,6 +12,6 @@ El Administrador de Compras utiliza el sistema para registrar productos, proveed
 
 ## Diagrama de Contexto
 
-![Diagrama de Contexto](./images/Imagen%201.png)
+![Diagrama de Contexto](./images/c1_context.png)
 
 El diagrama representa la interacción entre el usuario encargado del módulo de Compras, el Sistema ERP y un sistema contable externo encargado del procesamiento financiero de la organización.
