@@ -14,7 +14,7 @@ Finalmente, el backend responde con un mensaje de confirmación y la aplicación
 
 ## Diagrama de Secuencia
 
-![Diagrama de Secuencia](./images/Imagen%203.png)
+![Diagrama de Secuencia](./images/sequence_registrar_producto.png)
 
 Este diagrama representa la comunicación entre el usuario, la interfaz web, la API y la base de datos durante el proceso de registro de un producto.
 
