@@ -16,6 +16,6 @@ Servidor PostgreSQL encargado de almacenar toda la información relacionada con 
 
 ## Diagrama de Contenedores
 
-![Diagrama de Contenedores](./images/Imagen%202.png)
+![Diagrama de Contenedores](./images/c2_containers.png)
 
 El diagrama muestra la interacción entre el usuario, la aplicación web, la API y la base de datos que conforman la arquitectura del sistema.
