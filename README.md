@@ -2,11 +2,9 @@
 
 Repositorio creado para el desarrollo del taller de Arquitectura de Software.
 
-## Integrantes
+## Integrante
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
+-Juan Sebastian Rubio Gonzalez
 
 ## Contenido
 
